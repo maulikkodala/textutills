@@ -27,6 +27,11 @@
 .App-link {
   color: #61dafb;
 }
+.blank{
+  color:rgb(78, 24, 228)
+}
+  
+  
 
 @keyframes App-logo-spin {
   from {
@@ -36,3 +41,5 @@
     transform: rotate(360deg);
   }
 }
+
+
